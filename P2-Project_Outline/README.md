@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I wasnt to create a webpage for a daycare that will log information regarding each child.
+It will include information such as what they ate, activities for the day, diaper changes
+and perhaps even pictures.
+
+I currently have a 1 and 4 year old in daycare, and each day I am provided with a sheet of paper
+listing the information above. I'd like to eliminate the paper part and allow for parents to
+log in and see this information.
+
 ### Features
-Include Features here
+-- User login: I will need to create logins for both the daycare teacher and the parent.
+-- Create post: I want for the teacher to post on each individual page
+-- Create database: this will include the logged information (sleep, food, diapers)
+
 ### Technologies
-Include Technologies here
+-- C#
+-- MAMP
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'm not sure how to do this, but I'd like to have a chart for the children's sleep. Showing their 
+average sleep times and length of sleep.
